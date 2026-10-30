@@ -38,5 +38,85 @@
     "speedIndex": 4926,
     "performance": 26,
     "status": "ok"
+  },
+  {
+    "url": "https://intrauam.autonoma.edu.co/ponline/pagosEnLinea/donaciones/donar",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T03:47:47.023Z",
+    "firstContentfulPaint": 2091,
+    "largestContentfulPaint": 2473,
+    "speedIndex": 2091,
+    "performance": 96,
+    "status": "ok"
+  },
+  {
+    "url": "https://intrauam.autonoma.edu.co/ponline/pagosEnLinea/donaciones/donar",
+    "screenEmulation": "Escritorio (1350x940)",
+    "timestamp": "2026-10-30T03:47:53.759Z",
+    "firstContentfulPaint": 2065,
+    "largestContentfulPaint": 2773,
+    "speedIndex": 2065,
+    "performance": 73,
+    "status": "ok"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/graduados",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T03:48:10.467Z",
+    "firstContentfulPaint": 3817,
+    "largestContentfulPaint": 4376,
+    "speedIndex": 3817,
+    "performance": 64,
+    "status": "ok"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/graduados",
+    "screenEmulation": "Escritorio (1350x940)",
+    "timestamp": "2026-10-30T03:48:14.414Z",
+    "firstContentfulPaint": 5050,
+    "largestContentfulPaint": 6700,
+    "speedIndex": 5050,
+    "performance": 40,
+    "status": "ok"
+  },
+  {
+    "url": "https://intrauam.autonoma.edu.co/ponline/pagosEnLinea/donaciones/donar",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T04:13:42.098Z",
+    "firstContentfulPaint": 2042,
+    "largestContentfulPaint": 2838,
+    "speedIndex": 2042,
+    "performance": 94,
+    "status": "ok"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/graduados",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T04:14:00.956Z",
+    "firstContentfulPaint": 3819,
+    "largestContentfulPaint": 5128,
+    "speedIndex": 3819,
+    "performance": 62,
+    "status": "ok"
+  },
+  {
+    "url": "https://intrauam.autonoma.edu.co/ponline/pagosEnLinea/donaciones/donar",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T04:49:51.830Z",
+    "firstContentfulPaint": 2058,
+    "largestContentfulPaint": 2834,
+    "speedIndex": 2058,
+    "performance": 94,
+    "status": "ok"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/graduados",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T04:50:12.116Z",
+    "firstContentfulPaint": 4578,
+    "largestContentfulPaint": 5667,
+    "speedIndex": 4578,
+    "performance": 54,
+    "status": "ok"
   }
 ]
