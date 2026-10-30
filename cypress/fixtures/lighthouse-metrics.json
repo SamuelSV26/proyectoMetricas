@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://intrauam.autonoma.edu.co/ponline/pagosEnLinea/donaciones/donar",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T03:35:49.443Z",
+    "firstContentfulPaint": 2167,
+    "largestContentfulPaint": 2592,
+    "speedIndex": 2167,
+    "performance": 95,
+    "status": "ok"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/graduados",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T03:36:18.267Z",
+    "firstContentfulPaint": 3929,
+    "largestContentfulPaint": 4616,
+    "speedIndex": 4076,
+    "performance": 53,
+    "status": "ok"
+  },
+  {
+    "url": "https://intrauam.autonoma.edu.co/ponline/pagosEnLinea/donaciones/donar",
+    "screenEmulation": "Escritorio (1350x940)",
+    "timestamp": "2026-10-30T03:36:53.964Z",
+    "firstContentfulPaint": 2114,
+    "largestContentfulPaint": 2577,
+    "speedIndex": 2114,
+    "performance": 74,
+    "status": "ok"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/graduados",
+    "screenEmulation": "Escritorio (1350x940)",
+    "timestamp": "2026-10-30T03:37:21.638Z",
+    "firstContentfulPaint": 4926,
+    "largestContentfulPaint": 6509,
+    "speedIndex": 4926,
+    "performance": 26,
+    "status": "ok"
+  }
+]

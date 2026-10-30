@@ -27,6 +27,8 @@
     "node-cron": "^3.0.3"
   },
   "devDependencies": {
-    "cypress": "^13.17.0"
+    "@cypress-audit/lighthouse": "^1.4.2",
+    "cypress": "^13.17.0",
+    "lighthouse": "^12.8.2"
   }
 }
