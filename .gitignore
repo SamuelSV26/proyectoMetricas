@@ -21,6 +21,7 @@ coverage/
 .nyc_output/
 cypress/videos/
 cypress/screenshots/
+cypress/downloads/
 
 # Build and tool caches
 build/
@@ -33,6 +34,7 @@ dist/
 .env
 .env.*
 !.env.example
+credentials.json
 cypress.env.json
 
 # TypeScript build metadata
