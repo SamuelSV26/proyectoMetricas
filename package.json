@@ -1,0 +1,32 @@
+{
+  "name": "automatizacion-metricas-web-uam",
+  "version": "1.0.0",
+  "description": "Automatización de evaluación de métricas web institucionales con Lighthouse, Cypress, PageSpeed Insights y Google Sheets",
+  "main": "scheduler.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --spec \"cypress/e2e/metrics.cy.js\"",
+    "cypress:run:mobile": "cypress run --spec \"cypress/e2e/metrics.cy.js\" --env deviceFilter=Mobile",
+    "cypress:run:desktop": "cypress run --spec \"cypress/e2e/metrics.cy.js\" --env deviceFilter=Desktop",
+    "scheduler": "node scheduler.js",
+    "sync:sheets": "node scripts/sync-to-sheets.js",
+    "report": "node scripts/serve-report.js"
+  },
+  "keywords": [
+    "cypress",
+    "lighthouse",
+    "pagespeed-insights",
+    "google-sheets",
+    "metrics",
+    "uam"
+  ],
+  "author": "Equipo UAM",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "node-cron": "^3.0.3"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
